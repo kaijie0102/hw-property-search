@@ -1,0 +1,10 @@
+1.address
+2.area
+3.town
+4.postal_code
+5.property_type
+6.floor_size
+7.TOP
+8.bedrooms
+9.bathroom
+10.asking_price

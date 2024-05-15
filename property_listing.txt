@@ -1,0 +1,96 @@
+Property 1:
+1: 436C Fernvale Road
+2: Sengkang
+3: North-East
+4: 793436
+5: 4A HDB
+6: 1000
+7: 2010
+8: 3
+9: 2
+10: 610000
+--------------------
+Property 2:
+1: 673A Choa Chu Kang Crescent
+2: Choa Chu Kang
+3: North-West
+4: 681673
+5: 4A HDB
+6: 1076
+7: 1998
+8: 3
+9: 2
+10: 455000
+--------------------
+Property 3:
+1: 468A Admiralty Drive
+2: Sembawang 
+3: North-West
+4: 751468
+5: EA HDB
+6: 1474
+7: 1999
+8: 4
+9: 2
+10: 650000
+--------------------
+Property 4:
+1: 702 West Coast Road
+2: Clementi
+3: South-West
+4: 120702
+5: 3NG HDB
+6: 721
+7: 1979
+8: 2
+9: 2
+10: 360000
+--------------------
+Property 5:
+1: 738 Jurong West Street 75
+2: Jurong West
+3: South-West
+4: 640738
+5: 5I HDB
+6: 1345
+7: 1993
+8: 3
+9: 2
+10: 570000
+--------------------
+Property 6:
+1: J Gateway
+2: Jurong East
+3: South-West
+4: 640738
+5: Condominium
+6: 689
+7: 2017
+8: 2
+9: 2
+10: 1359999
+--------------------
+Property 7:
+1: J Gateway
+2: Jurong East
+3: South-West
+4: 640738
+5: Condominium
+6: 1206
+7: 2017
+8: 2
+9: 2
+10: 2500000
+--------------------
+Property 8:
+1: Ariel big big house
+2: Sentosa Cove
+3: North-East
+4: 793436
+5: bungalow
+6: 1000
+7: 2010
+8: 7
+9: 4
+10: 0
+--------------------
